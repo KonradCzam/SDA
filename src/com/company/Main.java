@@ -31,4 +31,7 @@ public class Main {
         return x+y;
   }
 
+public static Integer odejmowanie (Integer x, Integer y){
+        return x-y;
+}
 }
