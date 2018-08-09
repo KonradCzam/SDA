@@ -2,20 +2,15 @@ package com.company;
 
 public class Main {
 
+    private static final Object Integer = ;
+
     public static void main(String[] args) {
 
-        int a;
-        int b;
-        int c;
 
-        public static Integer multiply (Integer a;
-        a, Integer b, Integer c){
+        public Integer multiply (Integer a, Integer b) {
 
-            c = a * b;
 
-            return c;
-
-            System.out.println("Konrad Czmanskis result: ");
+            System.out.println("Konrad Czmanskis result: " + a * b);
         }
     }
 }
