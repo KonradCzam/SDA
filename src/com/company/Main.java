@@ -14,7 +14,7 @@ public class Main {
         return d;
 
     }
-  }
+  
   public static Integer IntegerMultiply(Integer a, Integer b){
     Integer c;
     c = a+b;
