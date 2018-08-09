@@ -23,4 +23,8 @@ public class Main {
     return c;
   }
 
+  public static Integer nowaMetoda (Integer x, Integer y){
+        return x+y;
+  }
+
 }
