@@ -13,6 +13,10 @@ public class Main {
         return d;
 
     }
+    public static Integer substraction(Integer a, Integer b){
+        return a-b;
+        
+    }
 
   public static Integer IntegerMultiply(Integer a, Integer b){
     Integer c;
