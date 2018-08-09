@@ -12,7 +12,7 @@ public class Main {
             return c;
 
 
-            System.out.println("Konrad Czmanskis result: " + c);
+            System.out.println("Konrad Czmanskis result: " + a * b);
         }
     }
 }
