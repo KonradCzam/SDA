@@ -12,10 +12,8 @@ public class Main {
         double c;
         c = a/b;
         return c;
-
-
-
     }
+
 
     public Integer multiply(Integer a, Integer b){
         Integer c;
