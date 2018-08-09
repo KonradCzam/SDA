@@ -4,8 +4,13 @@ public class Main {
 
     public static void main(String[] args)
     {
-
-        System.out.println("Konrad Czmanskis result: ");
+        double result = divide(1,2);
+        System.out.println("Result: " + result);
+    }
+    public static double divide(double a, double b){
+        double c;
+        c = a/b;
+        return c;
     }
 
 }

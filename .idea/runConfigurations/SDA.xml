@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SDA" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <module name="SDA" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
