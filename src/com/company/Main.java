@@ -5,7 +5,8 @@ public class Main {
     public static void main(String[] args)
     {
 
-        System.out.println("Konrad Czmanskis result: ");
+        public Integer multiply (Integer a, Integer b);
+            return a * b;
     }
 
 }
