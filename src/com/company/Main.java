@@ -4,13 +4,22 @@ public class Main {
 
     public static void main(String[] args)
     {
-        Integer result = divide(1,2);
-        System.out.println("Konrad Czmanskis result: " + result);
+
+        double result = divide(1,2);
+        System.out.println("Konrad Czmanski result: " + result);
     }
-    public static Integer divide(Integer a, Integer b){
-        Integer c;
+    public static double divide(double a, double b){
+        double c;
         c = a/b;
-        return c+c;
+        return c;
+
+
+
     }
 
+    public Integer multiply(Integer a, Integer b){
+        Integer c;
+        c = a*b;
+        return c;
+    }
 }
