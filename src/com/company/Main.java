@@ -4,11 +4,11 @@ public class Main {
 
     public static void main(String[] args)
     {
-        Integer result = divide(1,2);
+        Double result = divide(1,2);
         System.out.println("Konrad Czamanski result: " + result);
     }
-    public static Integer divide(Integer a, Integer b){
-        Integer c;
+    public static Double divide(double a, double b){
+        Double c;
         c = a/b;
         return c;
     }
