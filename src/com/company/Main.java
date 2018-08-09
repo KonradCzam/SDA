@@ -6,6 +6,13 @@ public class Main {
     {
 
         System.out.println("Konrad Czmanskis result: ");
+        System.out.println(multiply(5, 21));
+
+    }
+    public static Integer multiply(Integer a, Integer b){
+        return a * b;
+
+
     }
 
 }
