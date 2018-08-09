@@ -9,7 +9,7 @@ public class Main {
 
         }
 
-    public static Integer multiply(Integer a, Integer b, Integer c){
+    public static double multiply(Integer a, Integer b, Integer c){
         Integer c = a * b;
         return c;
 
@@ -19,4 +19,15 @@ public class Main {
         Integer c = a - b;
         return c;
     }
+
+    public static Integer adding (Integer a, Integer b, Integer c) {
+        Integer c = a + b;
+        return c;
+    }
+    public static Integer divide (Integer a, Integer b, Integer c) {
+        Integer c = a - b;
+        return c;
+    }
+
+
 }
