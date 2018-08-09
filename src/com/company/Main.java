@@ -7,7 +7,9 @@ public class Main {
     public static void main(String[] args) {
 
 
-        public Integer multiply (Integer a, Integer b) {
+        public static Integer multiply(Integer a, Integer b, Integer c){
+            Integer c = a * b;
+            return c;
 
 
             System.out.println("Konrad Czmanskis result: " + a * b);
